@@ -1,7 +1,3 @@
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="80"/> Hey! Nice to see you.
-Welcome to my site!
-
-I'm Carla, data scientist enthusiast from Argentina 🧉, currently living in Portugal.
 <!--
 **carladdm/carladdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="80"/> Hey! Nice to see you.
+Welcome to my site!
+
+I'm Carla, data scientist enthusiast from Argentina 🧉, currently living in Portugal. Always learning new things.
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif">
+
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning LLMs and prompt engineering
+- 👯 I’m looking to collaborate on any Data Science project
+- 💬 Ask me about anything, I'm happy to help
+- Outside tech, 💜I love to travelling, swimming, 🎵 listening to music, and 📖 reading books
+- 😄 Pronouns: she/her
 
 ### Skills
 
