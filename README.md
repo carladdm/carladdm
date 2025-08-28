@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="80"/> Hey! Nice to see you. I'm Carla
 
-<h3 align="center">A passionate Data Scientist from Argentina 🧉.</h3>
+<h3 align="center">A passionate Data Scientist from Argentina 🧉 </h3>
 
 Welcome to my site!
 
