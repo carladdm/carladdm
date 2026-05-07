@@ -23,7 +23,7 @@ Welcome to my site!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carladdm&label=Profile%20views&color=0e75b6&style=flat" alt="carladdm" /> </p>
 -->
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
+**About me**
 
 I’m a **Data Scientist** with a multidisciplinary background combining **engineering, scientific research, process optimization, and teaching**.  
 After years working in **Purchasing & Logistics optimization**, conducting **Materials Science research**, and more than a decade as a **University Professor in Numerical Analysis & Programming**, I have transitioned into **Data Science & Big Data** to leverage my analytical skills in new ways.
@@ -34,8 +34,6 @@ Originally from Argentina and currently living in Portugal 🌍, I’m always le
 - 🌱 Currently exploring **LLMs, Prompt Engineering & improve Big Data tools (Hadoop, Spark)**  
 - 🌍 Open to collaboration on **Data Science projects** and eager to connect with global professionals
 - 💬 Ask me about anything, I'm happy to help
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif">
 
 
 ## 🛠️ My skills
