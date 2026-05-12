@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Hey!_Nice_to_see_you._I'm_Carla-a855f7?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Hey!_Nice_to_see_you._I'm_Carla-00d4ff?style=for-the-badge&logoColor=white" height="40"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="50"/>
 </p>
 
