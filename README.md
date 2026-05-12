@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ---
 ## About me
 
-I bring an uncommon combination to Data Science: hands-on **Data & ML experience in a real fintech production environment**, conducting **Materials Science research** with peer-reviewed international publications, **15 years teaching applied programming to engineers**, and direct experience **leading institutional digital transformation** — officially designated to design and deliver it.
+I bring an uncommon combination to Data Science: hands-on **Data & ML experience in a real fintech production environment**, conducting **Materials Science research** with peer-reviewed international publications, **15 years teaching applied programming to engineers**, and direct experience **leading institutional digital transformation**.
 
-This means I don't just build models — I understand the operational context behind the data, translate complex problems into analytical frameworks, and communicate findings clearly to both technical teams and non-technical stakeholders.
+This means I don't just build models, I understand the operational context behind the data, translate complex problems into analytical frameworks, and communicate findings clearly to both technical teams and non-technical stakeholders.
 
 Currently finishing an **MSc in Big Data & Data Science** (*Distinction in Machine Learning*) and focused on **predictive modeling, NLP, and process optimization** applied to supply chain, financial and scientific domains.
 
