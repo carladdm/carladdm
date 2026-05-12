@@ -11,17 +11,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="80"/> Hey! Nice to see you. I'm Carla
+<h2 align="center">
+  <font color="#a855f7">Hey! Nice to see you. I'm Carla</font>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="80"/>
+</h2>
 
 <h3 align="center">A passionate Data Scientist from Argentina 🧉 </h3>
 
 Welcome to my site!
 
-<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carladdm&label=Profile%20views&color=0e75b6&style=flat" alt="carladdm" /> </p>
--->
 
 **About me**
 
@@ -34,6 +34,29 @@ Originally from Argentina and currently living in Portugal 🌍, I’m always le
 - 🌱 Currently exploring **LLMs, Prompt Engineering & improve Big Data tools (Hadoop, Spark)**  
 - 🌍 Open to collaboration on **Data Science projects** and eager to connect with global professionals
 - 💬 Ask me about anything, I'm happy to help
+
+-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hey!_Nice_to_see_you._I'm_Carla-a855f7?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpobXBvbG04dmU4Z2VveWF2a2NldDY1ZGdkOHo4ZWN0Z2NrcTY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMnRBcw2cLc7pcOMfC/giphy.gif" width="50"/>
+</p>
+
+# Carla Di Monno - Data Scientist
+
+**Chemical Engineer · Materials Science Research · Fintech Data & ML Experience** | From research & operations to scalable data solutions
+
+📍 Portugal (Open to Remote) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ing-carladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
+
+---
+## About me
+
+I bring an uncommon combination to Data Science: hands-on **Data & ML experience in a real fintech production environment**, conducting **Materials Science research** with 5 peer-reviewed international publications, **15 years teaching applied programming to engineers**, and direct experience **leading institutional digital transformation** — officially designated to design and deliver it.
+
+This means I don't just build models — I understand the operational context behind the data, translate complex problems into analytical frameworks, and communicate findings clearly to both technical teams and non-technical stakeholders.
+
+Currently finishing an **MSc in Big Data & Data Science** (*Distinction in Machine Learning*) and focused on **predictive modeling, NLP, and process optimization** applied to supply chain and scientific domains.
+
+Multilingual: Spanish (native) · Portuguese (B2) · English (B2) · Italian (B1)
 
 
 ## 🛠️ My skills
