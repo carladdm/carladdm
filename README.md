@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Chemical Engineer · Materials Science Research · Fintech Data & ML Experience** | From research & operations to scalable data solutions
 
-📍 Portugal (Open to Remote) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ing-carladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
+📍 Portugal (Open to Remote) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ing-carladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Carla-Di-Monno) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
 
 ---
 ## About me
