@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 I am a Data Scientist with an uncommon and powerful combination of skills: hands-on Machine Learning experience in a real fintech production environment, a completed **MSc in Big Data & Data Science** (*Distinction in Machine Learning*), and **research experience in Materials Science**, with international peer-reviewed publications.
 
-My work lies at the intersection of rigorous scientific thinking and applied machine learning, to leading institutional digital transformation in complex organisations.
+My work lies at the intersection of rigorous scientific thinking and applied machine learning — ranging from developing predictive models for complex domains to leading institutional digital transformation in complex organisations.
 
-More than a decade teaching **Applied Programming and Numerical Methods** to engineers means I explain complex models clearly — to technical teams and non-technical stakeholders alike.
+More than a decade teaching **Applied Programming and Numerical Methods** to engineers means I explain complex models clearly to technical teams and non-technical stakeholders alike.
 
-*🌐 Multilingual: Spanish (native) · English (B2) · Portuguese (B2) · Italian (B1)*
+**🌐 Multilingual**: Spanish (native) · English (B2) · Portuguese (B2) · Italian (B1)
 
 ---
 
@@ -84,8 +84,8 @@ More than a decade teaching **Applied Programming and Numerical Methods** to eng
 ---
 
 ## 🤝 Let’s Connect  
-I enjoy learning from others and sharing knowledge.  
-If you're into Data Science projects with real operational or scientific, let’s collaborate!
+
+I enjoy learning from others and sharing knowledge. If you are interested in DS/ML projects with real scientific or industrial impact, let's collaborate!
 
 📫 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla_Di_Monno-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ing-carladimonno), [![Email](https://img.shields.io/badge/Email-carladimonno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carladimonno@gmail.com)
 or drop a message here on GitHub.
