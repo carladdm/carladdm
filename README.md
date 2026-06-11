@@ -20,20 +20,20 @@ Here are some ideas to get you started:
 
 # Carla Di Monno - Data Scientist
 
-**Chemical Engineer · Materials Science Research · Fintech Data & ML Experience** | From research & operations to scalable data solutions
+**MSc Big Data & Data Science · Chemical Engineer · Materials Science Research · Fintech Data & ML Experience** | From research & operations to scalable data solutions
 
-📍 Portugal (Open to Remote) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ing-carladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Carla-Di-Monno) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
+🌍 Open to remote, hybrid & relocation &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ing-carladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Carla-Di-Monno) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
 
 ---
 ## About me
 
-I bring an uncommon combination to Data Science: hands-on **Data & ML experience in a real fintech production environment**, conducting **Materials Science research** with peer-reviewed international publications, **15 years teaching applied programming to engineers**, and direct experience **leading institutional digital transformation**.
+I am a Data Scientist with an uncommon and powerful combination of skills: hands-on Machine Learning experience in a real fintech production environment, a completed **MSc in Big Data & Data Science** (*Distinction in Machine Learning*), and **research experience in Materials Science**, with international peer-reviewed publications.
 
-This means I don't just build models, I understand the operational context behind the data, translate complex problems into analytical frameworks, and communicate findings clearly to both technical teams and non-technical stakeholders.
+My work lies at the intersection of rigorous scientific thinking and applied machine learning, to leading institutional digital transformation in complex organisations.
 
-Currently finishing an **MSc in Big Data & Data Science** (*Distinction in Machine Learning*) and focused on **predictive modeling, NLP, and process optimization** applied to supply chain, financial and scientific domains.
+More than a decade teaching **Applied Programming and Numerical Methods** to engineers means I explain complex models clearly — to technical teams and non-technical stakeholders alike.
 
-Multilingual: Spanish (native) · English (B2) · Portuguese (B2) · Italian (B1)
+*🌐 Multilingual: Spanish (native) · English (B2) · Portuguese (B2) · Italian (B1)*
 
 ---
 
