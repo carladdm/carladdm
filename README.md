@@ -33,7 +33,7 @@ My work lies at the intersection of rigorous scientific thinking and applied mac
 
 More than a decade teaching **Applied Programming and Numerical Methods** to engineers means I explain complex models clearly to technical teams and non-technical stakeholders alike.
 
-**🌐 Multilingual**: Spanish (native) · English (B2) · Portuguese (B2) · Italian (B1)
+**🌐 Multilingual**: Spanish (native) · English (advanced/professional) · Portuguese (B2) · Italian (B1)
 
 ---
 
@@ -69,7 +69,7 @@ More than a decade teaching **Applied Programming and Numerical Methods** to eng
 
 - 🧪 **Drug discovery ML** — ML architectures as part of my MSc thesis
 - 📦 **Supply chain forecasting** — applying XGBoost + SHAP to demand planning problems I've seen firsthand in operations
-- ☁️ **MLOps foundations** — building reproducible pipelines with Docker; extending GCP experience from the fintech internship
+- ☁️ **MLOps foundations** — building reproducible pipelines with Docker; extending GCP experience from my fintech role
 
 ---
 
