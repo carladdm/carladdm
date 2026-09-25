@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **MSc Big Data & Data Science · Chemical Engineer · Materials Science Research · Fintech Data & ML Experience** | From research & operations to scalable data solutions
 
-🌍 Open to remote, hybrid & relocation &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ing-carladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Carla-Di-Monno) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
+🌍 Open to remote, hybrid & relocation &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ingcarladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Carla-Di-Monno) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
 
 ---
 ## About me
@@ -87,5 +87,5 @@ More than a decade teaching **Applied Programming and Numerical Methods** to eng
 
 I enjoy learning from others and sharing knowledge. If you are interested in DS/ML projects with real scientific or industrial impact, let's collaborate!
 
-📫 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla_Di_Monno-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ing-carladimonno), [![Email](https://img.shields.io/badge/Email-carladimonno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carladimonno@gmail.com)
+📫 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla_Di_Monno-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ingcarladimonno), [![Email](https://img.shields.io/badge/Email-carladimonno@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carladimonno@gmail.com)
 or drop a message here on GitHub.
