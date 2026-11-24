@@ -67,6 +67,7 @@ More than 13 years teaching **Applied Programming and Numerical Methods** to eng
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+
 *🎯 Preparing Certifications*
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -75,7 +76,7 @@ More than 13 years teaching **Applied Programming and Numerical Methods** to eng
 
 ---
 
-## What I'm currently working on
+## 🧪 What I'm currently working on
 
 - 📦 **Supply Chain Analytics & Forecasting**: Building predictive demand planning models and interactive data web apps using `XGBoost`, `SHAP`, `Python`, and `Streamlit`.
 - 🤖 **Advanced RAG & Agentic Systems**: Developing multimodal RAG architectures, optimizing vector retrieval (`Qdrant`), and exploring autonomous agentic AI workflows.
@@ -95,7 +96,7 @@ More than 13 years teaching **Applied Programming and Numerical Methods** to eng
 
 ## 🤝 Let’s Connect  
 
-I enjoy learning from others and sharing knowledge. If you are interested in DS/ML projects with real scientific or industrial impact, let's collaborate!
+I enjoy learning from others and sharing knowledge. If you are interested in DS/ML/AI projects with real scientific or industrial impact, let's collaborate!
 
 📫 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla_Di_Monno-6E2CF2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ingcarladimonno), [![Email](https://img.shields.io/badge/Email-carladimonno@gmail.com-10B981?style=flat&logo=gmail&logoColor=white)](mailto:carladimonno@gmail.com)
 or drop a message here on GitHub.
