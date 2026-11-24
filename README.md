@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Carla Di Monno - Data Scientist & AI Engineer
 
-**MSc Big Data & Data Science · Chemical Engineer · Materials Science Research · Enterprise Financial Data & Applied ML Experience** | From research & operations to scalable data solutions
+**MSc Big Data & Data Science · Chemical Engineer · Materials Science Research · Enterprise Financial Data & Applied ML Experience** | From research & operations to scalable data & AI solutions
 
 🌍 Open to remote, hybrid & relocation &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ingcarladimonno) &nbsp;|&nbsp; 🎓 [ORCID](https://orcid.org/0000-0003-1463-9086) &nbsp;|&nbsp; 🔬 [ResearchGate](https://www.researchgate.net/profile/Carla-Di-Monno) &nbsp;|&nbsp; 📬 [carladimonno@gmail.com]
 
